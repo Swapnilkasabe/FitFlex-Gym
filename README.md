@@ -1,6 +1,6 @@
 # FitFlex Gym Website
 
-Welcome to FitFlex Gym, a responsive web application built with React for exploring gym activities and gain related information.
+Welcome to FitFlex Gym, a responsive web application built with React and Material UI for exploring gym activities and obtaining related information.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to FitFlex Gym, a responsive web application built with React for explor
 
 ## Introduction
 
-FitFlex Gym is a frontend application designed to help gym enthusiasts explore workout activities, view fitness tips, and stay connected with gym updates.
+FitFlex Gym is a frontend application designed to help gym enthusiasts explore workout activities, view fitness tips, and watch relevant practical videos.
 
 ## Features
 
@@ -31,13 +31,11 @@ FitFlex Gym is a frontend application designed to help gym enthusiasts explore w
 
 1. Clone the repository:
 
-git clone <Repo URL>
+git clone https://github.com/Swapnilkasabe/FitFlex-Gym.git
 cd FitFlex Gym
-
 
 2. Install dependencies:
 npm install
-
 
 3. Start the development server:
 npm start
